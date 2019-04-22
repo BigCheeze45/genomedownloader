@@ -9,7 +9,7 @@ is intended as both a starting point for future development and a useful example
 # Setup
 The following instructions assume you're on a Unix like system with Python 3 or later.
 
-1. Clone the repository: `git clone https://github.com/BigCheeze45/genomedownloader.git`
+1. Clone the repository: `git clone git@github.com:BigCheeze45/genomedownloader.git`
 1. Create and activate a [Python virtual environment](https://tinyurl.com/y6gac52u)
 	1. `python3 -m venv env`
 	1. `source /path/to/env/bin/activate`
