@@ -3,7 +3,7 @@
 genome data files from [EMBL-EBI](https://www.ebi.ac.uk/) FTP. It can take a single URL or a list of them (via file) to
 download.
 
-**Note:** This script is written for Python 3 or later. This script was cowboyed together, has no tests. It 
+**Note:** This script is written for Python 3 or later. This was cowboyed together and has no tests. It 
 is intended as both a starting point for future development and a useful example.
 
 # Setup
